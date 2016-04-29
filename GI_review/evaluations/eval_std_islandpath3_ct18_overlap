@@ -1,0 +1,31 @@
+(302172, 361067, 58896)	16847	-767	(319019, 361834, 42816)	71.395	35	25	24	68.571	[]
+(1008747, 1051266, 42520)	0	32475	(1008747, 1018791, 10045)	23.624	59	15	15	25.424	[]
+(1085156, 1092735, 7580)	0	0	0.0	7	0	0	0.0	[]
+(1538899, 1572919, 34021)	361	0	(1539260, 1572919, 33660)	98.939	36	35	35	97.222	[]
+(1625084, 1664823, 39740)	0	0	0.0	41	0	0	0.0	[]
+(1776200, 1791815, 15616)	422	0	(1776622, 1791815, 15194)	97.298	15	14	14	93.333	[]
+(1887450, 1933558, 46109)	-11711	0	(1875739, 1933558, 57820)	100.0	54	61	54	100.0	[]
+(2460793, 2465914, 5122)	0	0	0.0	2	0	0	0.0	[]
+(2597945, 2615052, 17108)	0	0	0.0	3	0	0	0.0	[]
+(2743495, 2759190, 15696)	0	0	0.0	4	0	0	0.0	[]
+(2759733, 2782364, 22632)	1177	13593	(2760910, 2768771, 7862)	34.738	16	9	9	56.25	[]
+(2859262, 2899034, 39773)	0	0	0.0	41	0	0	0.0	[]
+(3053654, 3060017, 6364)	-14180	-1648	(3039474, 3061665, 22192)	100.0	1	16	1	100.0	[]
+(3132606, 3139414, 6809)	0	0	0.0	4	0	0	0.0	[]
+(3515397, 3549055, 33659)	-651	-2406	(3514746, 3551461, 36716)	100.0	40	43	40	100.0	[]
+(3883111, 3900458, 17348)	0	0	0.0	6	0	0	0.0	[]
+(4321943, 4346614, 24672)	0	0	0.0	7	0	0	0.0	[]
+(4409511, 4543072, 133562)	-4442	5539	(4405069, 4479514, 74446)	(4499824, 4510281, 10458)	(4519050, 4537533, 18484)	74.082	109	81	76	69.725	[20309, 8768]
+(4683690, 4716539, 32850)	163	26113	(4683853, 4690426, 6574)	20.012	17	7	7	41.176	[]
+
+The number of predicted intervals: 13
+The number of reference intervals: 19
+The number of predicted reference intervals (TPs): 7
+The number of unpredicted reference intervals (FNs): 12
+The number of reference intervals not overlapping with predictions: 9
+The number of predicted intervals overlapping with the reference: 9
+The number of predicted intervals not overlapping with the reference (FPs): 4
+Interval Recall: 0.368	Precision: 0.636	F-measure: 0.467	Predicted intervals: 13	Total intervals: 19	
+The number of reference bases: 600077
+The number of reference genes: 497
+Bases Recall: 0.460	Precision: 0.765	F-measure: 0.575	F-measure Difference: 0.076	Left offset: 4995	Right: 8254	Predicted bases: 360667	Overlap bases: 275981	Predicted genes: 349	Overlap genes: 275	Predicted intervals: 13	Average interval size: 27743	Gene Recall: 0.553	Precision: 0.788	F-measure: 0.650	Avg offset: 6624

@@ -1,0 +1,31 @@
+(302172, 361067, 58896)	0	0	0.0	35	0	0	0.0	[]
+(1008747, 1051266, 42520)	0	0	0.0	59	0	0	0.0	[]
+(1085156, 1092735, 7580)	0	0	0.0	7	0	0	0.0	[]
+(1538899, 1572919, 34021)	0	0	0.0	36	0	0	0.0	[]
+(1625084, 1664823, 39740)	0	0	0.0	41	0	0	0.0	[]
+(1776200, 1791815, 15616)	0	0	0.0	15	0	0	0.0	[]
+(1887450, 1933558, 46109)	0	0	0.0	54	0	0	0.0	[]
+(2460793, 2465914, 5122)	75	-2	(2460868, 2465916, 5049)	98.536	2	2	2	100.0	[]
+(2597945, 2615052, 17108)	0	0	0.0	3	0	0	0.0	[]
+(2743495, 2759190, 15696)	0	0	0.0	4	0	0	0.0	[]
+(2759733, 2782364, 22632)	-108	13536	(2759625, 2768828, 9204)	40.191	16	9	9	56.25	[]
+(2859262, 2899034, 39773)	0	0	0.0	41	0	0	0.0	[]
+(3053654, 3060017, 6364)	2	74	(3053656, 3059943, 6288)	98.806	1	1	1	100.0	[]
+(3132606, 3139414, 6809)	0	-125	(3132606, 3139539, 6934)	100.0	4	4	4	100.0	[]
+(3515397, 3549055, 33659)	0	0	0.0	40	0	0	0.0	[]
+(3883111, 3900458, 17348)	0	0	0.0	6	0	0	0.0	[]
+(4321943, 4346614, 24672)	0	0	0.0	7	0	0	0.0	[]
+(4409511, 4543072, 133562)	-154	0	(4409357, 4543072, 133716)	100.0	109	109	109	100.0	[]
+(4683690, 4716539, 32850)	0	-1333	(4683690, 4717872, 34183)	100.0	17	18	17	100.0	[]
+
+The number of predicted intervals: 10
+The number of reference intervals: 19
+The number of predicted reference intervals (TPs): 6
+The number of unpredicted reference intervals (FNs): 13
+The number of reference intervals not overlapping with predictions: 13
+The number of predicted intervals overlapping with the reference: 6
+The number of predicted intervals not overlapping with the reference (FPs): 4
+Interval Recall: 0.316	Precision: 0.600	F-measure: 0.414	Predicted intervals: 10	Total intervals: 19	
+The number of reference bases: 600077
+The number of reference genes: 497
+Bases Recall: 0.323	Precision: 0.980	F-measure: 0.486	F-measure Difference: -0.042	Left offset: 56	Right: 2511	Predicted bases: 197553	Overlap bases: 193652	Predicted genes: 143	Overlap genes: 142	Predicted intervals: 10	Average interval size: 19755	Gene Recall: 0.286	Precision: 0.993	F-measure: 0.444	Avg offset: 1284
