@@ -12,6 +12,6 @@ The detailed guideline for installation can be found in http://scikit-learn.org/
 
 The detailed guideline for installing shogun can be found in http://www.shogun-toolbox.org/doc/en/latest/installation.html
 
-Below is a sample command to run GI-SVM
+Below is a sample command to run GI-SVM:
 mkdir ./output/NC_003198
 /usr/bin/time /usr/bin/python ./scripts/GI_SVM.py -N 0.9 -t 1 -k 6 -d ./output/NC_003198 -c 5  ./genome/NC_003198.fna -a > ./output/NC_003198/svm_std_NC_003198_6_1_0.9 2>&1 > ./output/NC_003198/std_NC_003198_6_1_0.9
