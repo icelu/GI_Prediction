@@ -1,0 +1,184 @@
+FT   misc_feature    32501..37500
+FT                   /colour=255 126 126
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.49
+FT   misc_feature    287501..292500
+FT                   /colour=255 79 79
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.54
+FT   misc_feature    332501..340000
+FT                   /colour=255 12 12
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.62
+FT   misc_feature    350001..360000
+FT                   /colour=255 49 49
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.58
+FT   misc_feature    385001..392500
+FT                   /colour=255 27 27
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.60
+FT   misc_feature    602501..610000
+FT                   /colour=255 59 59
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.57
+FT   misc_feature    757501..770000
+FT                   /colour=255 217 217
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.38
+FT   misc_feature    1085001..1090000
+FT                   /colour=255 28 28
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.60
+FT   misc_feature    1127501..1135000
+FT                   /colour=255 66 66
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.56
+FT   misc_feature    1362501..1367500
+FT                   /colour=255 37 37
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.59
+FT   misc_feature    1385001..1390000
+FT                   /colour=255 48 48
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.58
+FT   misc_feature    1567501..1572500
+FT                   /colour=255 60 60
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.56
+FT   misc_feature    1625001..1630000
+FT                   /colour=255 18 18
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.61
+FT   misc_feature    1642501..1650000
+FT                   /colour=255 60 60
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.57
+FT   misc_feature    1697501..1705000
+FT                   /colour=255 32 32
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.60
+FT   misc_feature    1777501..1792500
+FT                   /colour=255 118 118
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.50
+FT   misc_feature    1872501..1877500
+FT                   /colour=255 3 3
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.63
+FT   misc_feature    1915001..1922500
+FT                   /colour=255 47 47
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.58
+FT   misc_feature    2115001..2135000
+FT                   /colour=255 147 147
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.46
+FT   misc_feature    2187501..2197500
+FT                   /colour=255 248 248
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.35
+FT   misc_feature    2305001..2310000
+FT                   /colour=255 153 153
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.46
+FT   misc_feature    2460001..2467500
+FT                   /colour=255 128 128
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.49
+FT   misc_feature    2712501..2717500
+FT                   /colour=255 96 96
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.52
+FT   misc_feature    2747501..2752500
+FT                   /colour=255 3 3
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.63
+FT   misc_feature    2867501..2877500
+FT                   /colour=255 6 6
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.63
+FT   misc_feature    3047501..3060000
+FT                   /colour=255 104 104
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.51
+FT   misc_feature    3132501..3142500
+FT                   /colour=255 152 152
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.46
+FT   misc_feature    3417501..3422500
+FT                   /colour=255 99 99
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.52
+FT   misc_feature    3522501..3527500
+FT                   /colour=255 51 51
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.58
+FT   misc_feature    3552501..3557500
+FT                   /colour=255 82 82
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.54
+FT   misc_feature    3580001..3585000
+FT                   /colour=255 16 16
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.62
+FT   misc_feature    3595001..3600000
+FT                   /colour=255 104 104
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.51
+FT   misc_feature    3745001..3750000
+FT                   /colour=255 15 15
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.62
+FT   misc_feature    3830001..3837500
+FT                   /colour=255 105 105
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.51
+FT   misc_feature    3930001..3940000
+FT                   /colour=255 195 195
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.41
+FT   misc_feature    4082501..4087500
+FT                   /colour=255 15 15
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.62
+FT   misc_feature    4257501..4262500
+FT                   /colour=255 83 83
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.54
+FT   misc_feature    4322501..4347500
+FT                   /colour=255 43 43
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.58
+FT   misc_feature    4402501..4410000
+FT                   /colour=255 26 26
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.61
+FT   misc_feature    4415001..4420000
+FT                   /colour=255 2 2
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.63
+FT   misc_feature    4442501..4450000
+FT                   /colour=255 0 0
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.64
+FT   misc_feature    4457501..4465000
+FT                   /colour=255 15 15
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.62
+FT   misc_feature    4495001..4500000
+FT                   /colour=255 57 57
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.57
+FT   misc_feature    4520001..4535000
+FT                   /colour=255 14 14
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.62
+FT   misc_feature    4682501..4690000
+FT                   /colour=255 75 75
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.55
+FT   misc_feature    4695001..4705000
+FT                   /colour=255 255 255
+FT                   /algorithm="GI-SVM"
+FT                   /score=0.34
